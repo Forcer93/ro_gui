@@ -1,0 +1,6 @@
+id,description,type,tasks,priority,multi-choice,address,
+MAV#451,Unfall beim Hausmeister,Personenschaden,01011,high,true,Eulenstraße 1 Braunschweig,
+MAV#442,Vorfall beim Micky,Personenschaden,11000,high,true,Saarbrückener Straße 3 Lehndorf,
+MAV#876,Verkehrsunfall am Krankenhaus,Personenschaden,01111,high,true,Am Berge 1 Abbesbüttel,
+MAV#423,Vorfall beim Detlef,Personenschaden,10001,mid,false,Lerchenweg 4 Lehre,
+MAV#944,Vorfall beim Carsten,Personenschaden,01110,low,false,Neue Reihe 32 Schandelah,
